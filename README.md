@@ -1,2 +1,2 @@
 # NotreSuperSite
-Ce projet contient le code source de notre super site
+Ce projet contient le code source de notre super site internet !
